@@ -1,1 +1,1 @@
-# comic-book-gallery
+# Vidly
